@@ -1,0 +1,23 @@
+<-- WORDPRESS PAGES: Projects - DHQ -->
+
+&nbsp;
+<h3>About this Project</h3>
+<p><i>Project Title:</i> Digital Humanities Quarterly</p>
+<p><i>Description:</i> Digital Humanities Quarterly (DHQ) is an open-access, peer-reviewed, digital journal covering all aspects of digital media in the humanities. Edited by Julia Flanders at Northeastern University and published by the Alliance of Digital Humanities Organizations (ADHO), DHQ is also a community experiment in journal publication, with a commitment to experimenting with publication formats and the rhetoric of digital authoring. DHQ uses open standards to deliver journal content and publishes a wide range of peer-reviewed materials including scholarly articles, editorials and provocative opinion pieces, experiments in interactive media and reviews of books, web sites, new media art installations, and digital humanities systems and tools.</p>
+<p>Digital humanities is a diverse and still emerging field that encompasses the practice of humanities research in and through information technology, and the exploration of how the humanities may evolve through their engagement with technology, media, and computational methods. DHQ seeks to provide a forum where practitioners, theorists, researchers, and teachers in this field can share their work with each other and with those from related disciplines. In identifying the scope of DHQ, we define both "the humanities" and "the digital" quite broadly, and we invite contributions that probe the boundaries of the domain or re-examine its foundational premises. If you're unsure of whether a prospective submission falls within DHQ's rubric, please contact the editors.</p>
+<p>All DHQ materials are published under an open-access license that gives authors permanent ownership of their work. DHQ retains a perpetual, non-exclusive right to publish the work and to include it in other aggregations and indexes to achieve broader impact and visibility. But authors are free to republish their work in any venue they choose; there are never any reprint fees and authors do not need DHQ's permission to reuse or reprint their work in any form.</p>
+<p>DHQ is published on the web using a state-of-the-art XML-based publication system. We accept submissions in a wide range of formats, and host all accepted submissions that do not require dedicated software on the server, while providing links to any that do. Submissions in traditional academic formats (essays, articles, book reviews, bibliographies and so forth) are encoded in a TEI-compatible format for longevity and ease of management, but we also welcome innovative and experimental forms of scholarship and criticism. In addition, our web platform will support the infrastructure for ongoing blogging and commenting on DHQ publications, ad hoc reviews of the literature, and the like. Our intent is to demonstrate and promulgate best practices in electronic text encoding conducive to long-term preservation and Internet-wide access, while simultaneously encouraging approaches that continue to push the boundaries of the possible.</p>
+<p><i>Website:</i> <a href="http://www.digitalhumanities.org/dhq/">http://www.digitalhumanities.org/dhq/</a></p>
+&nbsp;
+<h3>Contribution to the DSG</h3>
+<p>More coming soon.</p>
+&nbsp;
+<h3>Contact Information</h3>
+<p><i>Primary contact:</i> dhqinfo@digitalhumanities.org</p>
+<p><i>Team:</i>
+<ul>
+	<li>Coming soon.</li>
+</ul></p>
+&nbsp;
+<h3>News and Publications</h3>
+<p>More coming soon.</p>

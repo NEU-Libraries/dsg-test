@@ -1,0 +1,109 @@
+<-- WORDPRESS PAGES: People -->
+
+&nbsp;
+<h3>Julia Flanders</h3>
+<table>
+<tbody>
+<tr>
+<td><img class="alignleft" alt="" src="http://library.northeastern.edu/sites/default/files/public/styles/profile_list/public/originals/FIELD_USER_PHOTO_SQUARE/2013/julia_square.png?itok=v2mh_Wn6" width="100" height="100" />
+<ul>
+<li>Title: Head of the Digital Scholarship Group, Professor of the Practice of English</li>
+<li>Department: Digital Scholarship Group</li>
+<li>Phone: (617) 373-4540</li>
+<li>Email: <a href="mailto:j.flanders@neu.edu">j.flanders@neu.edu</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Julia directs the DSG and provides expertise in text markup, digital project management, digital scholarly editing, data curation, information modeling, and digital scholarly communication.</td>
+</tr>
+</tbody>
+</table>
+<h3>Sarah Sweeney</h3>
+<table>
+<tbody>
+<tr>
+<td><img class="alignleft" alt="" src="http://library.northeastern.edu/sites/default/files/public/styles/profile_list/public/originals/FIELD_USER_PHOTO_SQUARE/2014/sweeneysquare.png?itok=lRW4u2_c" width="100" height="100" />
+<ul>
+	<li>Title: Digital Repository Manager</li>
+	<li>Department: Digital Scholarship Group</li>
+	<li>Phone: (617) 373-5062</li>
+	<li>Email: <a href="mailto:sj.sweeney@neu.edu">sj.sweeney@neu.edu</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Sarah manages Northeastern University Libraries' <a title="DRS" href="http://repository.neu.edu/" target="_blank">Digital Repository Service</a> (DRS), which is a safe and secure place for the Northeastern community to store and share their digital work. She began her library career as a Cataloging &amp; Metadata Librarian, and has a solid background in traditional library cataloging and digital metadata practices. She also works as part of the team that supports the University's catalog and discovery service, <a title="Scholar OneSearch" href="http://onesearch.neu.edu/primo_library/libweb/action/search.do" target="_blank">Scholar OneSearch</a>. Please contact Sarah if you would like to learn about how the DRS can be a useful tool for your department or research group, or if you would simply like more information about the services provided by the DRS.</td>
+</tr>
+</tbody>
+</table>
+<h3>Hillary Corbett</h3>
+<table>
+<tbody>
+<tr>
+<td><img class="alignleft" alt="" src="http://library.northeastern.edu/sites/default/files/public/styles/profile_list/public/originals/FIELD_USER_PHOTO_SQUARE/2011/corbettsquare.png?itok=KOAmFVGk" width="100" height="100" />
+<ul>
+	<li>Title: Scholarly Communication Librarian and University Copyright Officer</li>
+	<li>Department: Scholarly Communication</li>
+	<li>Phone: (617) 373-2352</li>
+	<li>Email: <a href="mailto:h.corbett@neu.edu">h.corbett@neu.edu</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Hillary provides support to researchers at all levels who want to extend the impact of their scholarly output through retaining their author rights, making their work available open access, and exploring new modes of dissemination. She advises the university community on copyright and fair use, and she is currently working on developing a library-based suite of publishing services. Hillary served as the IRis coordinator for many years and is now supporting the development and growth of the DRS; she also manages the university's electronic theses and dissertations (ETD) program.</td>
+</tr>
+</tbody>
+</table>
+<h3>Syd Bauman</h3>
+<table>
+<tbody>
+<tr>
+<td><img class="alignleft" alt="" src="http://library.northeastern.edu/sites/default/files/public/styles/profile_list/public/default_images/defaultsquare.png?itok=IuvB9fPY" width="100" height="100" />
+<ul>
+	<li>Title: XML Programmer-Analyst</li>
+	<li>Department: Library Technology Services</li>
+	<li>Phone: (617) 373-7339</li>
+	<li>Email: <a href="mailto:s.bauman@neu.edu">s.bauman@neu.edu</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Syd Bauman is an expert in text encoding and XML, with a special interest in the Text Encoding Initiative (TEI). He provides support to DSG projects involving markup technologies, XML publication tools, and other forms of deeply structured text.</td>
+</tr>
+</tbody>
+</table>
+<h3>Alicia Peaker</h3>
+<table>
+<tbody>
+<tr>
+<td><img class="size-full wp-image-102 alignleft" alt="aliciapeaker" src="http://dsg.neu.edu/wp-content/uploads/2014/03/aliciapeaker.jpg" width="100" height="100" />
+<ul>
+	<li>Title: Ph.D. Candidate</li>
+	<li>Department: Department of English</li>
+	<li>Email: <a href="mailto:a.peaker@neu.edu">a.peaker@neu.edu</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Alicia is a PhD candidate in English, the Project Manager for the Women Writers Project and the Co-Director for Our Marathon: The Boston Bombing Digital Archive.</td>
+</tr>
+</tbody>
+</table>
+<h3>Sara Grissom</h3>
+<table>
+<tbody>
+<tr>
+<td><img class="size-full wp-image-101 alignleft" alt="saragrissom" src="http://dsg.neu.edu/wp-content/uploads/2014/03/saragrissom.jpg" width="100" height="100" />
+<ul>
+	<li>Title: Coordinator, Master's Student</li>
+	<li>Department: School of Criminology and Criminal Justice</li>
+	<li>Email: <a href="mailto:s.grissom@neu.edu">s.grissom@neu.edu</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Sara is the Coordinator for the Digital Scholarship Group. She is a Master’s student in Criminal Justice at Northeastern University, and earned her undergraduate degree from Georgia Southern University in Justice Studies. Her academic interests include globalization, international law, and green criminology.</td>
+</tr>
+</tbody>
+</table>

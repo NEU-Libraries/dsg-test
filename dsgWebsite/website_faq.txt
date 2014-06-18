@@ -1,0 +1,19 @@
+<-- WORDPRESS PAGES: FAQ -->
+
+&nbsp;
+<h3>What is digital scholarship?</h3>
+<p>Digital scholarship is a broad term that encompasses a number of scholarly activities that utilize various forms of technology in the digital world. These activities include writing, research, and communications. The purpose of digital scholarship is two-fold: 1) to advance scholarly research through such digital tools and processes as data visualization, network analysis, text-analysis, GIS and mapping, and data-mining and 2) to create an open environment where the knowledge produced using these methods will be accessible to a much larger audience.</p>
+&nbsp;
+<h3>What does the DSG do?</h3>
+<p>As a whole, the DSG provides tools and support for digital scholarship projects within the Northeastern community. The DSG can advise faculty, staff, and students on how to develop and manage their long term digital projects. The DSG can also work with faculty, staff, and students to set up various digital publishing tools, like Open Journal System, Omeka, or Wordpress. The DSG offers many workshops and trainings on various digital project tools and topics, which all members of the Northeastern community are encouraged to attend.</p>
+<p>Individually, DSG staff members support the Northeastern community's digital scholarship needs by practicing and applying their specialized knowledge to various digital projects and pursuits. Among the DSG staff there are masters of XML, metadata schema and standards, digital publishing, repositories, journal publishing, data preservation and management, grant writing, and matters of copyright and fair use, to name a few.</p>
+&nbsp;
+<h3>How can I get the DSG involved with my project?</h3>
+<p>If you think would like to get the DSG involved with your project, please submit a project proposal using this form. Once we receive your request, we will schedule a consultation to discuss the needs and scope of your project.</p>
+&nbsp;
+<h3>How much does the DSG charge for its services?</h3>
+<p>The DSG is in the process developing its services, and a cost model for those services is under review. Most services, like workshops, trainings, and consultations will be without cost. Other resources and services, like server space or publishing tool set up, may require a fee.</p>
+&nbsp;
+<h3>Where is the DSG?</h3>
+<p>The DSG offices are located on the second floor of Snell Library in the Digital Scholarship Commons. Turn right when exiting the main stairwell and continue to the double glass doors to the Digital Scholarship Commons. DSG offices (room 213) will be straight ahead. Although the DSG supports many groups in the Northeastern community, the Digital Scholarship Commons is restricted to Northeastern faculty, doctoral students, and Snell Library staff. If you are a faculty member or a doctoral student, you can tap or swipe your NUID to access the space. If you cannot access the space with your NUID, please contact us to arrange for a DSG staff member to let you in.
+Snell Library is located in the heart of the Northeastern main campus, off Huntington Ave. For directions to Snell Library, please visit the Library's <a href="http://library.northeastern.edu/about/maps-and-directions/directions" target="_blank">Maps &amp; Directions page</a>.</p>

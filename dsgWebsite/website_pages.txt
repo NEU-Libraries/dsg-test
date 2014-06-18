@@ -1,0 +1,32 @@
+<-- WORDPRESS PAGES -->
+
+A list of all pages on the DSG website.
+
+HOME [[http://dsg.neu.edu/]]
+ABOUT [[http://dsg.neu.edu/about/]]
+- JOBS [[http://dsg.neu.edu/jobs/]]
+PEOPLE [[http://dsg.neu.edu/people/]]
+PROJECTS [[http://dsg.neu.edu/projects/]]
+- PROJECTS PAGES
+-- VIRAL TEXTS [[http://dsg.neu.edu/projects/viral-texts/]]
+-- ECDA [[http://dsg.neu.edu/projects/ecda/]]
+-- WWP [[http://dsg.neu.edu/projects/wwp/]]
+-- DHQ [[http://dsg.neu.edu/projects/dhq/]]
+-- OUR MARATHON [[http://dsg.neu.edu/projects/our-marathon/]]
+-- TAPAS [[http://dsg.neu.edu/projects/tapas/]]
+- APPLY [[http://dsg.neu.edu/projects/apply/]]
+-- NEW PROJECTS [[http://dsg.neu.edu/projects/apply/project-application/]]
+-- SERVICE REQUEST [[http://dsg.neu.edu/projects/apply/service-request/]]
+RESOURCES [[http://dsg.neu.edu/resources/]]
+- DRS [[http://dsg.neu.edu/resources/drs/]]
+- DEVELOPMENT & MANAGEMENT [[http://dsg.neu.edu/resources/development-management/]]
+- OJS [[http://dsg.neu.edu/resources/ojs/]]
+- XML [[http://dsg.neu.edu/resources/xml-publishing/]]
+- OMEKA [[http://dsg.neu.edu/resources/omeka/]]
+- GRANT SUPPORT [[http://dsg.neu.edu/resources/grant-support/]]
+- MARK-UP [[http://dsg.neu.edu/resources/mark-up/]]
+- SOFTWARE [[http://dsg.neu.edu/resources/software/]]
+NEWS [[http://dsg.neu.edu/news/]]
+EVENTS [[http://dsg.neu.edu/events/]]
+FAQ [[http://dsg.neu.edu/faq/]]
+CONTACT [[http://dsg.neu.edu/contact/]]

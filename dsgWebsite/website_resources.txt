@@ -1,0 +1,45 @@
+<-- WORDPRESS PAGES: Resources & Services -->
+
+&nbsp;
+<h3>Store and Share Your Research</h3>
+<p>Northeastern's digital repository provides a way to securely store and disseminate your research data and scholarly work. DSG provides support for researchers including workshops on data management, assistance with planning and data curation, and tools for using data from the repository to promote and share your research.</p>
+<p><ul>
+	<li>The Digital Repository Service (DRS) is Northeastern’s repository for research data and digital assets. [ <a href="http://dsg.neu.edu/resources/drs/">read more</a> ]</li>
+	<li>Develop data management plans for grant proposals or research projects. [ <a href="http://dsg.neu.edu/resources/development-management/">read more</a> ]</li>
+</ul></p>
+&nbsp;
+<hr />
+&nbsp;
+<h3>Use Digital Publishing Tools</h3>
+<p>DSG supports a growing number of tools for publishing digital scholarship.</p>
+<p><ul>
+	<li>Open Journal Systems (OJS), a web-based tool for producing and publishing open-access journals. [ <a href="http://dsg.neu.edu/resources/ojs/">read more</a> ]</li>
+	<li>XML publishing tools, including XML databases and systems for visualizing structured data. [ <a href="http://dsg.neu.edu/resources/xml-publishing-tools/">read more</a> ]</li>
+	<li>Omeka, a powerful tool for building digital projects and exhibits. [ <a href="http://dsg.neu.edu/resources/omeka/">read more</a> ]</li>
+</ul></p>
+&nbsp;
+<hr />
+&nbsp;
+<h3>Develop and sustain digital projects and data</h3>
+<p>For those interested in developing long-term digital projects, DSG offers expertise in grant-writing and project management, and can help train and oversee students working on DSG-affiliated projects. We can also help you think through what kinds of data your project needs, and provide expertise on relevant data standards and best practices.</p>
+<p><ul>
+	<li>Get support with preparing a grant proposal. [ <a href="http://dsg.neu.edu/resources/grant-support/">read more</a> ]</li>
+	<li>Learn TEI, XML, and other  markup languages for creating structured data. [ <a href="http://dsg.neu.edu/resources/mark-up-languages">read more</a> ]</li>
+	<li>Get help with digital project development and management. [ <a href="http://dsg.neu.edu/resources/development-management/">read more</a> ]</li>
+</ul></p>
+&nbsp;
+<hr />
+&nbsp;
+<h3>Access software on DSC computers</h3>
+<p>The computers located in the DSC are available for use by faculty and students who are working on DSG-affiliated projects and offer access to helpful software for the development of digital scholarship.</p>
+<p><ul>
+<li>For a full list of available software and related documentation, <a href="http://dsg.neu.edu/resources/software/">click here</a>.</li>
+</ul></p>
+&nbsp;
+<hr />
+&nbsp;
+<h3>Attend a Workshop or Training Session</h3>
+<p>The DSG is planning to offer workshops and training sessions on a wide range of topics at both introductory and advanced levels. Topics to be covered include TEI, Omeka, the Digital Repository Serivce, copyright and fair use, data curation and creation, and project management.</p>
+<p><ul>
+	<li>See our <a href="http://dsg.neu.edu/events/">events page</a> for more information about upcoming workshops and training sessions.</li>
+</ul></p>

@@ -1,0 +1,25 @@
+<-- WORDPRESS PAGES: Projects - ECDA -->
+
+&nbsp;
+<h3>About this Project</h3>
+<p><i>Project Title:</i> The Early Caribbean Digital Archive</p>
+<p><i>Description:</i> The Early Caribbean Digital Archive (ECDA) is a highly interactive digital scholarly lab for the collaborative research and study of pre-20th century Caribbean literature. The ECDA seeks to engage scholars and students in a shared, critical study of the textual, material, and cultural histories of the Caribbean by providing them innovative digital technologies and platforms for generating new and understudied knowledges of the Caribbean’s rich body of materials. Our approach to this digital archive solves major challenges facing scholars of Caribbean literature; currently no such pan-Caribbean digital or analogue archive of pre-20th century materials exists. Our site will foster a shared and informed engagement with the Caribbean and its literary, aesthetic, cultural, and political impact on the study of the pre-C20th century Atlantic world.The project will not only preserve original texts, but will also reframe the literary history of the early Caribbean as one where something new is preserved—voices beyond the imperial history of the Caribbean.</p>
+<p>The ECDA is partnered with the Digital Library of the Caribbean (DLOC) and housed in Northeastern University’s NULab for Texts, Maps, and Networks (NULab).</p>
+<p><i>Website:</i> <a href="http://omekasites.northeastern.edu/ECDA/">http://omekasites.northeastern.edu/ECDA/</a></p>
+&nbsp;
+<h3>Contribution to the DSG</h3>
+<p>More coming soon.</p>
+&nbsp;
+<h3>Contact Information</h3>
+<p><i>Primary contact:</i> Elizabeth Maddock Dillon (e.dillon@neu.edu)</p>
+<p><i>Team:</i>
+<ul>
+	<li>Elizabeth Maddock Dillon (Project Manager, e.dillon@neu.edu)</li>
+	<li>Nicole N. Aljoe (Project Manager, n.aljoe@neu.edu)</li>
+	<li>Elizabeth Hopwood (Lead TEI Developer, hopwood.el@husky.neu.edu)</li>
+	<li>Benjamin J. Doyle (Lead Omeka Site Developer, doyle.ben@husky.neu.edu)</li>
+</ul></p>
+<h3>News and Publications</h3>
+<p><ul>
+	<li>Recognition of project by Digital Library of the Caribbean at the 2013 ACURIL Conference, newsletter available <a href="http://dloc.com/UF00102954/00010">here</a>.</li>
+</ul></p>

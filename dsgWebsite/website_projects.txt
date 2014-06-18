@@ -1,0 +1,39 @@
+<-- WORDPRESS PAGES: Projects -->
+
+&nbsp;
+<h2>Viral Texts</h2>
+<p><a href="http://dsg.neu.edu/wp-content/uploads/2014/03/projectimage_viraltext_150x150.jpg"><img class="size-full wp-image-196 alignleft" alt="projectimage_viraltext_150x150" src="http://dsg.neu.edu/wp-content/uploads/2014/03/projectimage_viraltext_150x150.jpg" width="150" height="150" /></a>The Viral Texts Project is still in the early stages of development. Its site will soon include data, visualizations, and interpretive prose drawn from the Viral Texts project, which seeks to develop theoretical models that will help scholars better understand what qualities—both textual and thematic—helped particular news stories, short fiction, and poetry “go viral” in nineteenth-century newspapers and magazines. During this period, texts published in newspapers and magazines were not typically protected as intellectual property, and so literary texts as well as other non-fiction prose texts circulated promiscuously among newspapers as editors freely reprinted materials borrowed from other venues. The Viral Texts Project is asking: What texts were reprinted and why? How did ideas—literary, political, scientific, economic, religious—circulate in the public sphere and achieve critical force among audiences? By employing and developing computational linguistics tools to analyze the large textual databases of nineteenth-century newspapers newly available to scholars, this project will generate new knowledge of the nineteenth-century print public sphere. <a href="http://dsg.neu.edu/projects/viral-texts/">Read more...</a></p>
+&nbsp;
+<hr />
+&nbsp;
+<h2>Early Caribbean Digital Archive</h2>
+<p><a href="http://dsg.neu.edu/wp-content/uploads/2014/03/projectimage_ecda_150x150.jpg"><img class="size-full wp-image-193 alignleft" alt="projectimage_ecda_150x150" src="http://dsg.neu.edu/wp-content/uploads/2014/03/projectimage_ecda_150x150.jpg" width="150" height="150" /></a>The Early Caribbean Digital Archive (ECDA) is a highly interactive digital scholarly lab for the collaborative research and study of pre-20th century Caribbean literature. The ECDA seeks to engage scholars and students in a shared, critical study of the textual, material, and cultural histories of the Caribbean by providing them innovative digital technologies and platforms for generating new and understudied knowledges of the Caribbean’s rich body of materials. Our approach to this digital archive solves major challenges facing scholars of Caribbean literature; currently no such pan-Caribbean digital or analogue archive of pre-20th century materials exists. ECDA aims to foster a shared and informed engagement with the Caribbean and its literary, aesthetic, cultural, and political impact on the study of the pre-20th century Atlantic world. The project will not only preserve original texts, but will also reframe the literary history of the early Caribbean as one where something new is preserved—voices beyond the imperial history of the Caribbean. <a href="http://dsg.neu.edu/projects/ecda/">Read more...</a></p>
+&nbsp;
+<hr />
+&nbsp;
+<h2>Women Writers Project (WWP)</h2>
+<p><a href="http://dsg.neu.edu/wp-content/uploads/2014/03/projectimage_wwp_150x150.jpg"><img class="size-full wp-image-197 alignleft" alt="projectimage_wwp_150x150" src="http://dsg.neu.edu/wp-content/uploads/2014/03/projectimage_wwp_150x150.jpg" width="150" height="150" /></a>The Women Writers Project is a long-term research project devoted to early modern women’s writing and electronic text encoding. Our goal is to bring texts by pre-Victorian women writers out of the archive and make them accessible to a wide audience of teachers, students, scholars, and the general reader. We support research on women’s writing, text encoding, and the role of electronic texts in teaching and scholarship. <a href="http://dsg.neu.edu/projects/wwp/">Read more...</a></p>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+<hr />
+&nbsp;
+<h2>Digital Humanities Quarterly</h2>
+<p><a href="http://dsg.neu.edu/wp-content/uploads/2014/03/projectimage_dhq_150x150.jpg"><img class="size-full wp-image-192 alignleft" alt="projectimage_dhq_150x150" src="http://dsg.neu.edu/wp-content/uploads/2014/03/projectimage_dhq_150x150.jpg" width="150" height="150" /></a>Digital Humanities Quarterly (DHQ) is an open-access, peer-reviewed, digital journal covering all aspects of digital media in the humanities. Edited by Julia Flanders at Northeastern University and published by the Alliance of Digital Humanities Organizations (ADHO), DHQ is also a community experiment in journal publication, with a commitment to experimenting with publication formats and the rhetoric of digital authoring. DHQ uses open standards to deliver journal content and publishes a wide range of peer-reviewed materials including scholarly articles, editorials and provocative opinion pieces, experiments in interactive media and reviews of books, web sites, new media art installations, and digital humanities systems and tools. <a href="http://dsg.neu.edu/projects/dhq/">Read more...</a></p>
+&nbsp;
+<hr />
+&nbsp;
+<h2>Our Marathon</h2>
+<p><a href="http://dsg.neu.edu/wp-content/uploads/2014/03/projectimage_ourmarathon_150x150.jpg"><img class="size-full wp-image-194 alignleft" alt="projectimage_ourmarathon_150x150" src="http://dsg.neu.edu/wp-content/uploads/2014/03/projectimage_ourmarathon_150x150.jpg" width="150" height="150" /></a>Our Marathon is a crowd-sourced archive of pictures, videos, stories, and even social media related to the Boston Marathon; the bombing on April 15, 2013. The archive will serve as a long-term memorial, preserving these records for students and researchers, providing future historians with invaluable, local windows into an important national event. <a href="http://dsg.neu.edu/projects/our-marathon/">Read more...</a></p>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+<hr />
+&nbsp;
+<h2>TEI Archiving Publishing and Access Service (TAPAS)</h2>
+<p><a href="http://dsg.neu.edu/wp-content/uploads/2014/03/projectimage_tapas_150x150.jpg"><img class="size-full wp-image-195 alignleft" alt="projectimage_tapas_150x150" src="http://dsg.neu.edu/wp-content/uploads/2014/03/projectimage_tapas_150x150.jpg" width="150" height="150" /></a>Tapas is the TEI Archiving Publishing and Access Service for scholars and other creators of TEI data who need a place to publish their materials in different forms and ensure it remains accessible over time. Tapas is also for anyone interested in reading and exploring TEI data, and communicating with those that share that interest. The goal of TAPAS is to provide TEI publishing and repository services at low cost to those who lack institutional resources: faculty, students, librarians, archivists, teachers, and anyone else with TEI data who wants to store, share, and publish it. TAPAS seeks to achieve these goals in a collaborative, open, and community-driven way using open-source tools. <a href="http://dsg.neu.edu/projects/tapas/">Read more...</a></p>
+&nbsp;

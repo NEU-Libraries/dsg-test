@@ -1,0 +1,30 @@
+<-- WORDPRESS PAGES: Projects - Our Marathon -->
+
+&nbsp;
+<h3>About this Project</h3>
+<p><i>Project Title:</i> Our Marathon - The Boston Bombing Digital Archive & WBUR Oral History Project</p>
+<p><i>Description:</i> The Boston Marathon is woven into the fabric of our community: it brings together runners from around the world, spectators, family members, and neighbors, forging a river of people stretching from Hopkinton to downtown Boston. The April 15, 2013 bombing at the marathon finish line aimed to destroy that fabric. We invite you to help mend and strengthen the fabric of our community by contributing your stories and media from the week of April 15 in Boston.</p>
+<p>Our Marathon is a crowd-sourced archive of pictures, videos, stories, and even social media related to the Boston Marathon; the bombing on April 15, 2013; the subsequent search, capture, and trial of the individuals who planted the bombs; and the city’s healing process. “Our Marathon” will allow the public to explore not only what happened during the event, but also how the event was experienced by Bostonians, visitors to the city, and those many members of the “Boston diaspora” who were far away but deeply engaged in the unfolding events. The archive will serve as a long-term memorial, preserving these records for students and researchers, providing future historians with invaluable, local windows into an important national event.</p>
+<p>Much of the media attention in the wake of the bombing has focused on the two men accused of planting the bombs, as well as, importantly, on the victims of the violence. We see this archive as a way to allow a wider range of important stories about these events to be told and shared. The bombing changed lives in ways small and large and in ways that were immediate and more enduring. This is a place for those images, emotions, and experiences to be shared and for us to understand the event in its broad, community-wide dimensions.</p>
+<p><i>Website:</i> <a href="http://marathon.neu.edu/">http://marathon.neu.edu/</a></p>
+&nbsp;
+<h3>Contribution to the DSG</h3>
+<p>More coming soon.</p>
+&nbsp;
+<h3>Contact Information</h3>
+<p><i>Primary contact:</i> marathon@neu.edu</p>
+<p><i>Team:</i>
+<ul>
+	<li>Elizabeth Dillon (Principal Investigator)</li>
+	<li>Ryan Cordell (Principal Investigator)</li>
+	<li>Alicia Peaker (Project Co-director)</li>
+	<li>Jim McGrath (Project Co-director)</li>
+	<li>Dave DeCamp (Technical Lead)</li>
+	<li>Joanne DeCaro Afornalli (Community Outreach Lead)</li>
+</ul></p>
+&nbsp;
+<h3>News and Publications</h3>
+<p><ul>
+	<li>Our Marathon Partners With Boston City Archives To Give Permanent Home To 2013 Boston Marathon Memorial Items And Messages Of Support (March 28th, 2014; press release)</li>
+	<li>"Marathon memorial enshrined" (Boston Globe; March 28th, 2014)</li>
+</ul></p>

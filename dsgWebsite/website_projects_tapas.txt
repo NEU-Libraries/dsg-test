@@ -1,0 +1,38 @@
+<-- WORDPRESS PAGES: Projects - TAPAS -->
+
+<p>Briefly, DSG projects are the groups and activities to which DSG provides direct tangible support. Projects might be organized around a publication, a research initiative, an event, or even an individual researcher's work. Our current projects are listed below.</p>
+&nbsp;
+<hr />
+&nbsp;
+<h3>About this Project</h3>
+<p><i>Project Title:</i> TEI Archiving, Publishing, and Access Service</p>
+<p><i>Description:</i> Tapas is the TEI Archiving Publishing and Access Service for scholars and other creators of TEI data who need a place to publish their materials in different forms and ensure it remains accessible over time. Tapas is also for anyone interested in reading and exploring TEI data, and communicating with those that share that interest. The goal of TAPAS is to provide TEI publishing and repository services at low cost to those who lack institutional resources: faculty, students, librarians, archivists, teachers, and anyone else with TEI data who wants to store, share, and publish it. TAPAS seeks to achieve these goals in a collaborative, open, and community-driven way using open-source tools.</p>
+<p>The TAPAS project is a collaborative effort involving many institutions and people who support TAPAS in many different ways: hosting the service, contributing to the project's development, providing beta-testing and test data, and serving in advisory roles.</p>
+<p><i>Website:</i> <a href="http://www.tapasproject.org/about">http://www.tapasproject.org/about</a></p>
+&nbsp;
+<h3>Contribution to the DSG</h3>
+<p>More coming soon.</p>
+&nbsp;
+<h3>Contact Information</h3>
+<p><i>Primary contact:</i> Coming soon.</p>
+<p><i>Team:</i>
+<br />
+Project Directors
+	<ul>
+	<li>Rafael Alvarado, University of Virginia</li>
+<li>Andrew Ashton, Brown University</li>
+<li>Julia Flanders, Northeastern University</li>
+<li>Scott Hamlin, Wheaton College</li>
+</ul>
+<br />
+Project Development
+<ul>
+<li>Syd Bauman, Northeastern University</li>
+<li>Peter MacDonald, Hamilton College</li>
+<li>Patrick Rashleigh, Brown University</li>
+<li>Eliot Scott, Brown University</li>
+<li>Michael Spalti, Willamette University</li>
+</ul></p>
+&nbsp;
+<h3>News and Publications</h3>
+<p>More coming soon.</p>

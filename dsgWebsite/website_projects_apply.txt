@@ -1,0 +1,21 @@
+<-- WORDPRESS PAGES: Projects - Apply -->
+
+<p>Interested in becoming a DSG-affiliated project? Here's some information to get you started. Please contact us to learn more or set up a consultation.</p>
+&nbsp;
+<h3>What is a DSG project?</h3>
+<p>Briefly, DSG projects are the groups and activities to which DSG provides direct tangible support. Our projects typically arise out of activities centered at Northeastern University; we do not generally provide services for hire. However, projects may include collaborators at other institutions and in special cases may arise from larger community initiatives for which Northeastern is a natural home.</p>
+<p>In order to ensure that our effort is distributed fairly, and to enable us to set priorities, we ask potential projects to use our application process, below. This enables us to learn more about what you need from DSG, and also helps us organize our work.</p>
+&nbsp;
+<h3>What are the benefits of being a DSG project?</h3>
+<p>DSG offers affiliated projects many different forms of support, including:</p>
+<p><ul>
+	<li>server space</li>
+	<li>access to specialized software tools and DSG lab computers</li>
+	<li>installations and configuration of systems like Omeka, WordPress, Listserv, MediaWiki</li>
+	<li>time and effort from DSG staff, including programming, project management, grant-writing, information design, and other activities.</li>
+</ul></p>
+<p>Basic services are provided on request. More advanced services such as development effort involve a proposal process, since DSG has a limited staff. The standard tools and systems we use are maintained by DSG to keep our projects vital and functional for the long term.</p>
+<p>Some of these services are provided on a cost-recovery basis, or carry a charge for usage above a basic level. We should have detailed information about rates and access soon; in the meantime, please contact us for details.</p>
+&nbsp;
+<h3>How do I apply?</h3>
+<p>To apply for DSG project status, please fill out the form <a href="http://dsg.neu.edu/projects/apply/project-application/">here</a>. A member of the DSG will contact you to discuss your project and its needs. Following that discussion, you can request specific services such as server space, Omeka installations, and so forth.</p>
