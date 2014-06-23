@@ -1,6 +1,12 @@
 <-- WORDPRESS PAGES: People -->
 
-&nbsp;
+
+<p>Below you will find a list of all DSG staff, research associates, and alumni.</p>
+<br />
+<p><a href=#staff>Staff</a> | <a href=#associates>Research Associates</a> | <a href=#alumni>Alumni</a></p>
+<br />
+<h2 id=“staff”>Staff</h2>
+<br />
 <h3>Julia Flanders</h3>
 <table>
 <tbody>
@@ -107,3 +113,11 @@
 </tr>
 </tbody>
 </table>
+<br />
+<h2 id=“associates”>Research Associates</h2>
+<br />
+<p>Coming soon.</p>
+<br />
+<h2 id=“alumni”>Alumni</h2>
+<br />
+<p>Coming soon.</p>
