@@ -16,7 +16,7 @@
 <ul>
 	<li>Ryan Cordell (Primary Investigator)</li>
 	<li>Elizabeth Maddock Dillon</li>
-	<li>Davis Smith</li>
+	<li>David Smith</li>
 	<li>Abby Mullen</li>
 	<li>Peter Roby</li>
 	<li>Kevin Smith</li>
